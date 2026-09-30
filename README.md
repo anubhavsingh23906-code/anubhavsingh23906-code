@@ -209,18 +209,11 @@ AI-powered analytics platform that transforms data into actionable insights usin
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhavsingh23906-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavsingh23906-code&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavsingh23906-code&theme=github-compact&hide_border=true&area=true" alt="Anubhav's GitHub Contribution Graph" />
 </p>
 
 ---
