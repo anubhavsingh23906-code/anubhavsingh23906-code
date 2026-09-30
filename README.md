@@ -134,7 +134,7 @@ AI-powered emergency healthcare and ambulance coordination platform.
 
 **Stack:** Python • FastAPI • Machine Learning • REST API
 
-<a href="https://github.com/anubhavsingh23906-code/HealthConnect">
+<a href="https://github.com/anubhavsingh23906-code/hackathon-prototype">
 <img src="https://img.shields.io/badge/View%20Project-238636?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -166,7 +166,7 @@ AI-powered analytics platform that transforms data into actionable insights usin
 
 **Stack:** Python • Machine Learning • AI • Data Analytics
 
-<a href="https://insight-forge-ai--insightforgeai.replit.app">
+<a href="https://github.com/anubhavsingh23906-code/InsightForge-AI">
 
 <img src="https://img.shields.io/badge/View%20Project-238636?style=for-the-badge&logo=github&logoColor=white" />
 
