@@ -158,16 +158,18 @@ AI-powered smart parking system with occupancy prediction, demand forecasting an
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Internal Document RAG
+### 🔍 InsightForge AI
 
-Retrieval-Augmented Generation system for asking questions over internal documents.
+AI-powered analytics platform that transforms data into actionable insights using machine learning and intelligent analysis.
 
-**Stack:** Python • RAG • NLP • Vector Search
+**Stack:** Python • Machine Learning • AI • Data Analytics
 
-<a href="https://github.com/anubhavsingh23906-code/internal-doc-rag">
+<a href="https://insight-forge-ai--insightforgeai.replit.app">
+
 <img src="https://img.shields.io/badge/View%20Project-238636?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 </td>
